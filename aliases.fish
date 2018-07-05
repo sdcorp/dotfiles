@@ -7,6 +7,7 @@ alias sd3 'tree -F -C --dirsfirst -L 3'
 alias c 'clear'
 alias cf 'touch'
 alias md 'mkdir'
+alias rmd 'rm -rf'
 
 # npm
 alias n 'npm install'
