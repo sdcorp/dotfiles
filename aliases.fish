@@ -15,3 +15,12 @@ alias nid 'npm install -D'
 alias nrd 'npm run dev'
 alias nrs 'npm run start'
 alias nrb 'npm run build'
+
+# yarn
+alias y 'yarn'
+alias ya 'yarn add'
+alias yad 'yarn add -D'
+alias ys 'yarn start'
+alias yd 'yarn dev'
+alias yb 'yarn build'
+alias yl 'yarn lint'
