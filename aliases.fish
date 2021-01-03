@@ -2,6 +2,7 @@
 alias sd 'tree -F -C --dirsfirst -L 1'
 alias sd2 'tree -F -C --dirsfirst -L 2'
 alias sd3 'tree -F -C --dirsfirst -L 3'
+alias sdf 'tree -a -F -C --dirsfirst -L 1'
 
 # system
 alias c 'clear'
