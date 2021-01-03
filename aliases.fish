@@ -8,6 +8,7 @@ alias c 'clear'
 alias cf 'touch'
 alias md 'mkdir'
 alias rmd 'rm -rf'
+alias vc 'code .'
 
 # npm
 alias n 'npm install'
